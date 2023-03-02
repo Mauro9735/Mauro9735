@@ -20,10 +20,10 @@ Software*** 💻💻💻.
 
 ### Comandos Alias recomendados:
 
-| Comando                                                              | Descripción                                                                     |
-|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| alias **npmd** = "npm run dev"                                       | Alias para inicializar un proyecto en ***Vite***                            |
-| alias **npms** = "npm start"                                         | Alias para inicializar un proyecto en ***Create-React-App***                |
+| Comando                                                              | Descripción                                                                 |
+|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| alias **npmd** = "npm run dev"                                       | Alias para ejecutar un proyecto en ***Vite***                               |
+| alias **npms** = "npm start"                                         | Alias para ejecutar un proyecto en ***Create-React-App***                   |
 | alias **cafe** = "cat /dev/urandom \| hexdump -C \| grep 'ca fe' "   | Alias para buscar en una secuencia aleatoria de bytes, la palabra **ca fe** |
 | alais **cl** = "clear"                                               | Alias para limpiar la terminal                                              |
 
